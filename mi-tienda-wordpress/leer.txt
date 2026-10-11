@@ -1,0 +1,1 @@
+ejecutar docker compose up -d en PowerShell(Administrador) para levantar el paquete
